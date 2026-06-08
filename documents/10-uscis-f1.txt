@@ -1,0 +1,16 @@
+SOURCE: USCIS — F-1 Students Official Page
+URL: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors
+OFFICIAL: True
+FETCHED_AT: 2026-06-08T00:45:50+00:00
+======================================================================
+
+Students and Exchange Visitors
+If you wish to pursue full-time academic or vocational studies in the United States, you may be eligible for one of two nonimmigrant student categories. The “F” category is for academic students and the “M” is for vocational students. To learn more, please see the Students and Exchange Visitors Program page on the U.S. Immigration and Customs Enforcement website.
+If you wish to participate in an exchange program you may be eligible for the “J” category for exchange visitors. The J visa program is for educational and cultural exchange programs. For more information, please see the USCIS Policy Manual and the Exchange Visitor Visa page on the Department of State website.
+
+U.S. Federal Tax Information
+Aliens temporarily present in the United States as students, trainees, scholars, teachers, researchers, exchange visitors and cultural exchange visitors are subject to special rules with respect to the taxation of their income.
+
+Other USCIS Links
+- USCIS Policy Manual
+- Changing to a Nonimmigrant F or M Student Status
